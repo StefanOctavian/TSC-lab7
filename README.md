@@ -1,3 +1,4 @@
 # Tree traversal
 
-Multiple implementations for binary tree traversals.
+Pirvu Ciprian Cristian 334AA
+Sterea Stefan Octavian 334CB
